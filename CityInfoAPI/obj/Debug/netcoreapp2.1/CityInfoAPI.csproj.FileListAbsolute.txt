@@ -1,0 +1,14 @@
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.deps.json
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.runtimeconfig.json
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.runtimeconfig.dev.json
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.dll
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.pdb
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.csprojAssemblyReference.cache
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.csproj.CoreCompileInputs.cache
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorAssemblyInfo.cache
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorAssemblyInfo.cs
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.AssemblyInfoInputs.cache
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.AssemblyInfo.cs
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.dll
+C:\Users\danko.papucic\source\repos\CityInfo\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.pdb
